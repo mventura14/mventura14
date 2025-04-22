@@ -10,11 +10,12 @@ I recently completed a full-stack Java bootcamp, where I focused on building pra
 - **Languages:** Java, TypeScript, JavaScript, HTML, CSS, SQL  
 - **Frameworks & Tools:** Spring Boot, Angular, Bootstrap, MySQL, JPA/Hibernate  
 - **Other Skills:** REST APIs, Agile/Scrum, MVC architecture
-
+<!---
 ### 📌 Projects
 - **Skill Villa** – A gamified learning platform built with Angular and Spring Boot  
 - **Powder Pals** – Full-stack MVC app connecting snow sport enthusiasts  
 Check them out in my pinned repositories!
+--->
 
 ### 🔭 Current Focus
 - Building real-world projects and tools
@@ -33,6 +34,8 @@ Check them out in my pinned repositories!
 Thanks for stopping by! Feel free to connect or collaborate.
 
 <!---
+
+
 mventura14/mventura14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
